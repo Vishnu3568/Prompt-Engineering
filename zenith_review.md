@@ -4,10 +4,11 @@
 
 # About Me
 
-* **Candidate Name**: [Insert Name]  
+* **Candidate Name**: Vishnu Vardhan Uppari  
 * **Education**: [Insert University & Degree Details]  
 * **AI Tools Utilized**: OpenAI Models (GPT-4, GPT-4o), Anthropic Claude, Google Gemini, Midjourney, Stable Diffusion.  
 * **Programming Languages**: Python, JavaScript, SQL, HTML/CSS.  
+* **Live Interactive Demo**: [J.E.R.K. x Zenith Prompt Lab](https://vishnu3568.github.io/Prompt-Engineering/)
 
 ### Interest in Prompt Engineering
 Prompt engineering represents the crucial translation layer between raw machine intelligence and structured human experience. I am fascinated by how minor adjustments in system instructions, dynamic few-shot contexts, and structural JSON constraints can steer LLMs to produce highly creative, reliable, and localized outputs. Mastering prompt design is the key to unlocking the true business potential of generative AI.
@@ -458,6 +459,7 @@ I would be excited to contribute as a Prompt Engineering Intern at Baby Dino/Zen
 
 # Part 5: Submission References
 
-* **Lab App Repository**: [GitHub Repository](https://github.com/Vishnu3568)
+* **Live Interactive Demo**: [J.E.R.K. x Zenith Prompt Lab](https://vishnu3568.github.io/Prompt-Engineering/)
+* **Lab App Repository**: [GitHub Repository](https://github.com/Vishnu3568/Prompt-Engineering)
 * **LinkedIn Profile**: [LinkedIn Profile](https://www.linkedin.com/in/vishnu-vardhan-uppari-797153351/)
 * **Candidate Resume**: [Candidate Resume (Google Drive)](https://drive.google.com/drive/folders/1nJ-igJutlE8k9N9uOHrchxTjsEtK0hki?usp=drive_link)

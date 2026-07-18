@@ -67,6 +67,7 @@ You can also open `index.html` directly in any modern browser by double-clicking
 ## 👤 Candidate Details
 
 * **Candidate Name**: Vishnu Vardhan Uppari
+* **Live App Demo**: [J.E.R.K. x Zenith Prompt Lab](https://vishnu3568.github.io/Prompt-Engineering/)
 * **GitHub Repository**: [https://github.com/Vishnu3568/Prompt-Engineering](https://github.com/Vishnu3568/Prompt-Engineering)
 * **LinkedIn Profile**: [https://www.linkedin.com/in/vishnu-vardhan-uppari-797153351/](https://www.linkedin.com/in/vishnu-vardhan-uppari-797153351/)
 * **Resume & Details Folder**: [Google Drive Folder Link](https://drive.google.com/drive/folders/1nJ-igJutlE8k9N9uOHrchxTjsEtK0hki?usp=drive_link)
